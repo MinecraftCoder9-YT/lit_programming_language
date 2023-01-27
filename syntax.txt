@@ -1,0 +1,5 @@
+Syntax rules for Lit programming language
+Note: ? means any char or num
+
+*Incorrect*  [?, NUM: ?, NUM: ?, ?]
+*Correct* [?, NUM: ?, OPERATOR: ?, NUM: ?, ?]
